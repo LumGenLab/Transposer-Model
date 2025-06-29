@@ -31,7 +31,7 @@ Install the Python libraries with:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -94,4 +94,4 @@ MIT — open source, free to use, modify, and share.
 
 👋 Author
 
-Built by Abd, a self-taught AI engineer, on a Phenom™ CPU with no GPU and a dream to break the myth that AI requires millions of dollars and massive compute.
+Built by Abd, a self-taught AI engineer, on a AMD Phenom™ Triple-Core Processor 2.40 GHz CPU with no GPU and a dream to break the myth that AI requires millions of dollars and massive compute.

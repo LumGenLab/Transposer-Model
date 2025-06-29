@@ -32,3 +32,66 @@ Install the Python libraries with:
 ```bash
 pip install -r requirements.txt
 
+
+---
+
+🧪 Running the Model
+
+Make sure you have:
+
+transposer.py (main code file)
+
+data.txt (your text corpus, example provided)
+
+
+Then run:
+
+python transposer.py
+
+It will:
+
+Load the dataset from data.txt
+
+Generate embeddings
+
+Run the Transposer layer
+
+Print semantically related words
+
+Plot heatmaps and cosine similarity matrix
+
+
+
+---
+
+📄 Sample Output
+
+--- Language Understanding Test ---
+
+Related words to 'individuals': ['respiratory', 'greed', 'disrupting']
+Related words to 'corporations': ['future', 'activities', 'adopt']
+
+
+---
+
+📚 Inspiration
+
+> The idea was sparked while reading a transposition example in a 9th-grade math textbook.
+Abd imagined: “What if instead of numbers, we transpose word embeddings?”
+That idea became Transposer.
+
+
+
+
+---
+
+🔓 License
+
+MIT — open source, free to use, modify, and share.
+
+
+---
+
+👋 Author
+
+Built by Abd, a self-taught AI engineer, on a Phenom™ CPU with no GPU and a dream to break the myth that AI requires millions of dollars and massive compute.
